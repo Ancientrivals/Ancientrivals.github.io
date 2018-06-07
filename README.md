@@ -22,7 +22,7 @@ email: sandtesseract@gmail.com
 ## THE DATA WE COLLECT
 ### Data we collect automatically.
 
-Data about your use of the Service, such as gameplay data. We are using GameAnalytics service. For information on how third party may use your information, please see their (privacy policy)[https://gameanalytics.com/terms].
+Data about your use of the Service, such as gameplay data. We are using GameAnalytics service. For information on how third party may use your information, please see their [privacy policy](https://gameanalytics.com/terms).
 
 ## WHY DO WE COLLECT YOUR DATA
 ### To make the Service work.
