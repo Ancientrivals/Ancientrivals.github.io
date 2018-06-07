@@ -22,7 +22,7 @@ email: sandtesseract@gmail.com
 ## THE DATA WE COLLECT
 ### Data we collect automatically.
 
-Data about your use of the Service, such as gameplay data. We are using GameAnalytics service. For information on how third party may use your information, please see their privacy policy.
+Data about your use of the Service, such as gameplay data. We are using GameAnalytics service. For information on how third party may use your information, please see their (privacy policy)[https://gameanalytics.com/terms].
 
 ## WHY DO WE COLLECT YOUR DATA
 ### To make the Service work.
@@ -44,13 +44,8 @@ For information on how to opt-out from personalized advertisements, see section 
 ### Advertising
 Please be aware that while using our Products, Users can follow links to other sites and/or software applications that are beyond our sphere of influence. We are not responsible for the content or privacy policy of these other sites and/or software applications. For information on how our selected third parties may use your information, please see their privacy policies.
 
-1. [Unity](https://unity3d.com/ru/legal/privacy-policy)
-2. [Ironsource](https://developers.ironsrc.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/)
-3. [Chartboost](https://answers.chartboost.com/en-us/articles/200780269)
-4. [Applovin](https://www.applovin.com/privacy)
-5. [Google](https://policies.google.com/technologies/ads)
-6. [Facebook](https://www.facebook.com/policy.php)
-7. [Adcolony](https://www.adcolony.com/privacy-policy/)
+- [Unity](https://unity3d.com/ru/legal/privacy-policy)
+- [Google](https://policies.google.com/technologies/ads)
 
 ### Other companies and public authorities.
 In order to combat fraud and illegal activity, we may exchange data with other companies and organizations and provide it to public authorities in response to lawful requests.
