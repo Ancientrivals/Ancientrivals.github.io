@@ -16,6 +16,7 @@ If you have questions about data protection, or if you have any requests for res
 Name of the controller: Temnikov Mikhail
 
 Address: St. Petersburg, Russia
+
 email: sandtesseract@gmail.com
 
 ## THE DATA WE COLLECT
